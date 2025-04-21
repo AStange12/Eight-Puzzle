@@ -1,7 +1,7 @@
 # 8-Puzzle Solver
 
 ## Overview
-In this project I created an 8-puzzle program in C++, generating random solvable* 8-puzzle boards along with various search algorithms to solve said puzzle. The program utilizes Depth-First Search (DFS), Best-First Search (BestFS), and A* Search algorithms. Two different heuristics are applied to estimate the distance between a given board state and the goal state: 
+In this project I created an 8-puzzle program in Python, generating random solvable* 8-puzzle boards along with various search algorithms to solve said puzzle. The program utilizes Depth-First Search (DFS), Best-First Search (BestFS), and A* Search algorithms. Two different heuristics are applied to estimate the distance between a given board state and the goal state: 
    - The number of misplace tiles
    - The Manhattan Distance – sum of all tiles ‘distance’ to their goal state
    
