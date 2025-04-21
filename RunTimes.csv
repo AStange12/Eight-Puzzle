@@ -1,0 +1,5 @@
+Run Time(milliseconds) - Algorithm Comparison
+Trial Number, ASTAR(time, outcome), BestFS(time, outcome), DepthFS(time, outcome)
+0,3089.425800004392,Success,362.769799990929,Success,43464.918800003943,Failed
+1,944.550699990941,Success,297.007300003315,Success,43936.521800002083,Failed
+2,39123.006900001201,Failed,61.981000006199,Success,45014.329500001622,Failed
